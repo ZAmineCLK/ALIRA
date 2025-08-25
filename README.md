@@ -107,7 +107,6 @@ rapidfuzz
 langdetect
 ```
 
-*(à ajuster selon vos choix)*
 
 ## ⚙️ Config (exemple)
 
@@ -118,12 +117,6 @@ langdetect
 
 * Tests unitaires sur : NLP, apprentissage, index contextes, MySQL manager.
 
-## 🤝 Contribution
-
-1. Fork → branche `feature/<nom>`
-2. Commits clairs
-3. Tests verts
-4. Pull Request avec description du contexte
 
 ## 📜 Licence
 
@@ -143,4 +136,4 @@ langdetect
 CLARA est un **compagnon libre** : honnête (dit “je ne sais pas”),
 adaptatif (apprentissage ciblé), et **économe** en ressources.
 
-— Mainteneur : *vous* 💚
+— Mainteneur : *ZAmineCLK* 💚
