@@ -12,7 +12,7 @@
 ## 🧠 Architecture (vue d’ensemble)
 
 1. **Prétraitement linguistique** (correction, découpage, nettoyage) via `core/nlp_processor.py`.
-2. **Raisonnement interne** (ChatterBot + mémoire locale) via `models/chatterbot_wrapper.py`.
+2. **Raisonnement interne** (mémoire locale) via `MySQL'
 3. **Escalade** vers **nounou** (assistant formateur) via `core/assistant_model.py` et `core/learning_system.py`.
 4. **Fallback** Wikipédia si aucune connaissance (généraliste) via `core/wikipedia_fallback.py`.
 5. **Stockage** : MySQL (synonymes par *familles*, contextes hiérarchiques, profils), cache mémoire.
