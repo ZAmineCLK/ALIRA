@@ -35,8 +35,7 @@ clara/
 │   └── assistant_model.py
 ├── models/
 │   ├── __init__.py
-│   ├── local_models.py
-│   └── chatterbot_wrapper.py
+│   └── local_models.py
 ├── utils/
 │   ├── __init__.py
 │   ├── dependencies.py
@@ -97,8 +96,6 @@ python -m clara.main
 ## 📦 Dépendances (exemple `requirements.txt`)
 
 ```
-chatterbot
-chatterbot-corpus
 pymysql
 sqlalchemy
 wikipedia
@@ -120,7 +117,8 @@ langdetect
 
 ## 📜 Licence
 
-* Projet **libre**. Recommandé : **GPL‑3.0** (garantit la liberté des dérivés) ou **Apache‑2.0** (permissive, inclut clauses brevets). À choisir dans la page de création du dépôt.
+* Projet **libre**. : 
+**GPL‑3.0** (garantit la liberté des dérivés)
 
 ## 🗺️ Roadmap (extrait)
 
