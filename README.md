@@ -17,41 +17,6 @@
 4. **Fallback** Wikipédia si aucune connaissance (généraliste) via `core/wikipedia_fallback.py`.
 5. **Stockage** : MySQL (synonymes par *familles*, contextes hiérarchiques, profils), cache mémoire.
 
-## 📁 Structure du dépôt
-
-```
-clara/
-├── __init__.py
-├── main.py
-├── config/
-│   ├── __init__.py
-│   ├── database.py
-│   └── settings.py
-├── core/
-│   ├── __init__.py
-│   ├── learning_system.py
-│   ├── nlp_processor.py
-│   ├── wikipedia_fallback.py
-│   └── assistant_model.py
-├── models/
-│   ├── __init__.py
-│   └── local_models.py
-├── utils/
-│   ├── __init__.py
-│   ├── dependencies.py
-│   ├── text_processing.py
-│   ├── error_handler.py
-│   └── logger.py
-├── storage/
-│   ├── __init__.py
-│   ├── mysql_manager.py
-│   └── memory_manager.py
-└── tests/
-    ├── __init__.py
-    ├── test_nlp_processor.py
-    ├── test_learning_system.py
-    └── test_mysql_manager.py
-```
 
 ## 🔗 Flux décisionnel (simplifié)
 
