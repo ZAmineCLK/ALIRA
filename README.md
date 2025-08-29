@@ -85,15 +85,6 @@ langdetect
 * Projet **libre**. : 
 **GPL‑3.0** (garantit la liberté des dérivés)
 
-## 🗺️ Roadmap (extrait)
-
-* [ ] Implémentation familles de synonymes + index contextes
-* [ ] Désambiguïsation segmentée (conjonctions)
-* [ ] Protocole apprentissage des inconnus (Y inconnu)
-* [ ] Nounou : interface d’annotation/validation
-* [ ] Cache réponses + apprentissage différé
-* [ ] Export/Import mémoire (dump MySQL)
-
 ## 🙌 Crédits & philosophie
 
 CLARA est un **compagnon libre** : honnête (dit “je ne sais pas”),
