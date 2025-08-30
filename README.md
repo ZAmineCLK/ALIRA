@@ -111,4 +111,3 @@ ALIRA est une **compagnante libre** :
 
 **Mainteneur** : ZAmineCLK 💚
 ---
-Veux‑tu que je fasse ça ?
