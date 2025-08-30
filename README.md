@@ -2,6 +2,8 @@
 
 # ALIRA – Accompagnante Libre à Interaction et Réflexion Assistée
 
+*Née de la mythologie, forgée par la technologie*
+
 ---
 
 ## Concept
@@ -110,4 +112,5 @@ ALIRA est une **compagnante libre** :
 * **Économe en ressources** : fonctionne sur des machines modestes.
 
 **Mainteneur** : ZAmineCLK 💚
+
 ---
