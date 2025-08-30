@@ -4,8 +4,8 @@ import dotenv
 
 dotenv.load_dotenv()
 
-PROJECT_NAME = "CLARA"
-FULL_NAME = "Companion Libre Adaptatif de Reflexion Assistée"
+PROJECT_NAME = "ALIRA"
+FULL_NAME = "Accompagnante Libre à Interaction et Réflexion Assistée"
 VERSION = "1.0"
 
 # Configuration MySQL
