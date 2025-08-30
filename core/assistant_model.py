@@ -66,7 +66,7 @@ class AssistantPhaseBebe:
             return None
     
     def _preparer_prompt(self, question, historique):
-        prompt = "Vous êtes CLARA, une assistante conversationnelle intelligente. Répondez de manière helpful et concise.\n\n"
+        prompt = "Vous êtes ALIRA, une assistante conversationnelle intelligente. Répondez de manière helpful et concise.\n\n"
         if historique and len(historique) > 0:
             for i, (user, bot) in enumerate(historique[-3:]):
                 prompt += f"Utilisateur: {user}\nCLARA: {bot}\n\n"
