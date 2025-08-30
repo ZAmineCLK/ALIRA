@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CLARA - Companion Libre Adaptatif de Reflexion Assistée
+ALIRA - Accompagnante Libre à Interaction et Réflexion Assistée
 Point d'entrée principal
 """
 
@@ -62,10 +62,10 @@ def boucle_conversation(nlp, chatbot, systeme_apprentissage):
     # Aide utilisateur
     print("\n" + "=" * 85)
     if est_phase_bebe:
-        print("👶 CLARA est en PHASE BÉBÉ - Modèle assistant activé")
+        print("👶 ALIRA est en PHASE BÉBÉ - Modèle assistant activé")
         print("💡 Je vais apprendre de mes erreurs avec l'aide de mon assistant")
     else:
-        print("🎓 CLARA est en MODE AUTONOME")
+        print("🎓 ALIRA est en MODE AUTONOME")
     
     print("💬 Processus en 4 étapes activé :")
     print("1. 📚 Mémoire personnelle")
@@ -84,18 +84,18 @@ def boucle_conversation(nlp, chatbot, systeme_apprentissage):
                 continue
                 
             if entree.lower() in ['quitter', 'exit', 'au revoir', 'stop', 'quit', 'goodbye']:
-                print("👩‍💻 CLARA: Au revoir ! À bientôt ! 👋")
+                print("👩‍💻 ALIRA: Au revoir ! À bientôt ! 👋")
                 break
             
             # Traitement de la phrase
             reponse = systeme_apprentissage.gerer_conversation(nlp, chatbot, entree)
-            print(f"👩‍💻 CLARA: {reponse}")
+            print(f"👩‍💻 ALIRA: {reponse}")
             
         except KeyboardInterrupt:
-            print("\n\n👩‍💻 CLARA: Interruption détectée. Au revoir !")
+            print("\n\n👩‍💻 ALIRA: Interruption détectée. Au revoir !")
             break
         except Exception as e:
-            print(f"👩‍💻 CLARA: Désolée, une erreur s'est produite: {e}")
+            print(f"👩‍💻 ALIRA: Désolée, une erreur s'est produite: {e}")
 
 def main():
     """Fonction principale"""
