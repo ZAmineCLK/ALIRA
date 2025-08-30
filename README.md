@@ -66,7 +66,7 @@ langdetect
 
 ## 🙌 Crédits & philosophie
 
-ALIRA est une **compagnonte libre** : honnête (dit “je ne sais pas”),
+ALIRA est une **compagnante libre** : honnête (dit “je ne sais pas”),
 adaptatif (apprentissage ciblé), et **économe** en ressources.
 
 — Mainteneur : *ZAmineCLK* 💚
