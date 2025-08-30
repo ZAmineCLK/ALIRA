@@ -2,6 +2,8 @@
 
 # ALIRA – Accompagnante Libre à Interaction et Réflexion Assistée
 
+---
+
 ## Concept
 
 ALIRA est un système d’accompagnement intelligent et modulaire, conçu pour interagir avec l’utilisateur de manière claire et précise. Son objectif est de fournir des réponses fiables et contextualisées, tout en respectant sa philosophie fondamentale : **si ALIRA ne sait pas, elle dit qu’elle ne sait pas**.
