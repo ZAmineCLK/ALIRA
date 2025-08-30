@@ -1,10 +1,8 @@
----
 
 # ALIRA – Accompagnante Libre à Interaction et Réflexion Assistée
 
 *Née de la mythologie, forgée par la technologie*
 
----
 
 ## Concept
 
