@@ -82,13 +82,6 @@ langdetect
 
 ---
 
-## ⚙️ Configuration
-
-* `config/settings.py` : seuils de désambiguïsation, langues, flags “no‑improvise”.
-* `config/database.py` : session/pooling MySQL, initialisation des tables.
-
----
-
 ## 🧪 Tests
 
 Tests unitaires sur : NLP, apprentissage, index contextes, MySQL manager.
