@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ALIRA 1.0 PALLAS - Accompagnante Libre à Interaction et Réflexion Assistée
+ALIRA - Accompagnante Libre à Interaction et Réflexion Assistée
 Version avec compréhension linguistique avancée
 """
 
